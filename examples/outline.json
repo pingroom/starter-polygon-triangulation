@@ -1,0 +1,28 @@
+{
+  "outlineId": "paper-arrow",
+  "title": "Practice paper arrow outline",
+  "coordinateMeaning": "Outline corners in a flat craft sketch, relative to its marked origin.",
+  "unit": "mm",
+  "vertices": [
+    {
+      "id": "a",
+      "label": "Lower left"
+    },
+    {
+      "id": "b",
+      "label": "Lower right"
+    },
+    {
+      "id": "c",
+      "label": "Upper right"
+    },
+    {
+      "id": "d",
+      "label": "Inward notch"
+    },
+    {
+      "id": "e",
+      "label": "Upper left"
+    }
+  ]
+}

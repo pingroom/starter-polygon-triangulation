@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+/.pingroom/
+/.polygon/
+/config.json
+/outline.json
+.DS_Store
